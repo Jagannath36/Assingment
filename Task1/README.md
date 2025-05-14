@@ -22,11 +22,12 @@ Sample Columns: Rank, Name, Platform, Year, Genre, Publisher, NA_Sales, EU_Sales
 # Requirements
 Install the following dependencies:
 pip install pandas
+kaggel game sales dataset
 
 # Files in This Folder
-sales_crud.ipynb: Jupyter Notebook with all CRUD operations
-
-sales.csv: Dataset file (ensure it's in the same directory)
+Task1.ipynb: Jupyter Notebook with all CRUD operations
+Task1.py
+dataset sales.csv
 
 
 
