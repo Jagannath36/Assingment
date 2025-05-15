@@ -1,3 +1,6 @@
+# Problem Statement
+Web Scraping for Product Details
+Perform web scraping from two e-commerce websites (e.g., Amazon, Flipkart, Chroma, Reliance Digital). Create a dynamic Python script that allows the user to search for products and save the details (e.g., name, price, ratings) in an Excel file. Ensure the code is robust and handles dynamic search queries.
 
 # Amazon Product Scraper (Python)
 This Python-based scraper allows users to search for a product on Amazon India and extract detailed product information like name, price, and rating for up to 50 items. The results are saved into a clean and structured Excel (.xlsx) file, making it useful for product research, price comparisons, or market analysis.
