@@ -1,3 +1,9 @@
+# Problem Statement
+Descriptive and Predictive Analysis with Interactive Dashboard
+Take any sales dataset of your choice and perform both descriptive and predictive analysis. Create an interactive dashboard using Python visualization libraries such as Plotly or Dash. Ensure that the graphs are interactive and can cross-filter each other. Include at least three different types of visualizations.
+
+
+
 # Sales Dashboard with Dash
 This interactive dashboard visualizes video game sales data with charts and predictive analytics using Dash, Plotly, Flask and scikit-learn.
 
